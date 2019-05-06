@@ -41,7 +41,7 @@ import os
 import numpy as np
 
 
-# ### Training Data
+# ### Training Data..
 
 # The more images used in training the better. Normally a lot of images are used
 #for training a face recognizer so that it can learn different looks of the same person, for example with glasses, without glasses, laughing, sad, happy, crying, with beard, without beard etc. To keep our tutorial simple we are going to use only 12 images for each person. 
