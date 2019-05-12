@@ -12,7 +12,7 @@
 
 # coding: utf-8
 
-# Face Recognition with OpenCV
+# Face Recognition with OpenCV....
 
 # To detect faces, I will use the code from my previous article on
 #[face detection](https://www.superdatascience.com/opencv-face-detection/).
