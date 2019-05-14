@@ -271,7 +271,7 @@ print("Total labels: ", len(labels))
 
 # ### Train Face Recognizer
 
-# As we know, OpenCV comes equipped with three face recognizers.
+# As we know, OpenCV comes equipped with three face recognizers.....
 # 
 # 1. EigenFace Recognizer: This can be created with `cv2.face.createEigenFaceRecognizer()`
 # 2. FisherFace Recognizer: This can be created with `cv2.face.createFisherFaceRecognizer()`
